@@ -2,9 +2,7 @@
 
 very simple to do list website.
 
-<strong>If you want to look at my website, click here</strong>
-<ul>
-<li><a href="https://wh-todo.netlify.app/">here</a></li>
+<strong>If you want to look at my website, click <a href="https://wh-todo.netlify.app/">here</a></strong>
 
 <strong>Concept</strong>
 <ul>
